@@ -33,7 +33,7 @@ When you click a YouTube Shorts link, ShortsBan automatically redirects you back
 
 ShortsBan doesn't collect, store, or transmit any personal data. All processing happens locally in your browser.
 
-**Read our full [Privacy Policy](PRIVACY.html)**
+**Read our full [Privacy Policy](https://jcousins01.github.io/ShortsBan/PRIVACY.html)**
 
 ## 🐛 Support
 
