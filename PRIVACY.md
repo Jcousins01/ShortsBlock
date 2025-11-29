@@ -1,10 +1,10 @@
-# ShortsBan Privacy Policy
+# ShortsBlock Privacy Policy
 
 **Last Updated:** November 2025
 
 ## Data Collection
 
-ShortsBan does **not** collect, store, or transmit any personal data.
+ShortsBlock does **not** collect, store, or transmit any personal data.
 
 ## What We Don't Do
 
@@ -16,7 +16,7 @@ ShortsBan does **not** collect, store, or transmit any personal data.
 
 ## Local Storage
 
-ShortsBan only stores data locally in your browser:
+ShortsBlock only stores data locally in your browser:
 - Session block count (resets when browser closes)
 - Last block token (for notification management)
 
@@ -24,7 +24,7 @@ This data never leaves your device and is deleted when you close your browser.
 
 ## Permissions Explained
 
-ShortsBan requires these permissions:
+ShortsBlock requires these permissions:
 
 - **tabs**: To detect and block YouTube Shorts URLs
 - **storage**: To track session statistics locally (never sent anywhere)
@@ -32,11 +32,11 @@ ShortsBan requires these permissions:
 
 ## Third-Party Services
 
-ShortsBan does not use any third-party analytics, tracking, or data collection services.
+ShortsBlock does not use any third-party analytics, tracking, or data collection services.
 
 ## Contact
 
-If you have privacy concerns, please [open an issue](https://github.com/Jcousins01/ShortsBan/issues) or contact: jackcousins@live.co.uk
+If you have privacy concerns, please [open an issue](https://github.com/Jcousins01/ShortsBlock/issues) or contact: jackcousins@live.co.uk
 
 ## Changes to This Policy
 

@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "ShortsBlock",
+  "version": "1.0.1",
+  "description": "Block YouTube Shorts automatically. Prevents redirects to youtube.com/shorts and restores your previous page. Stay focused, avoid distractions, and maintain your YouTube browsing flow.",
+  "browser_action": {
+    "default_popup": "popup/popup.html",
+    "default_title": "ShortsBlock - Block YouTube Shorts"
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": ["tabs", "storage", "notifications"],
+  "icons": {
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png"
+  },
+  "homepage_url": "https://github.com/Jcousins01/ShortsBlock",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "shortsblock-2025@jcousins01.github.com",
+      "strict_min_version": "109.0",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
+    }
+  }
+}

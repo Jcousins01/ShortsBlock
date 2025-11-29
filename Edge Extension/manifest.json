@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "ShortsBlock",
+  "version": "1.0.1",
+  "description": "Stop YouTube Shorts from hijacking your browsing session. ShortsBlock automatically blocks /shorts URLs and redirects you back to where you were. Track your blocking stats, stay focused, and browse YouTube on your terms. Privacy-first extension with no data collection, completely free and open source.",
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_title": "ShortsBlock - Block YouTube Shorts",
+    "default_icon": {
+      "48": "icons/icon-48.png",
+      "96": "icons/icon-96.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["tabs", "storage", "notifications"],
+  "host_permissions": [
+    "https://*.youtube.com/*",
+    "https://youtube.com/*"
+  ],
+  "icons": {
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png"
+  },
+  "homepage_url": "https://github.com/Jcousins01/ShortsBlock"
+}
+
+
+

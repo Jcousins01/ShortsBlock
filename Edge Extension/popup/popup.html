@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes" />
+    <meta name="description" content="ShortsBlock - Automatically block YouTube Shorts and prevent redirects. Stay focused and maintain your YouTube browsing flow." />
+    <meta name="keywords" content="youtube shorts, block youtube shorts, youtube extension, productivity, focus, distraction blocker" />
+    <title>ShortsBlock - Block YouTube Shorts</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <main role="main" aria-label="ShortsBlock extension popup">
+      <header class="app-header" role="banner">
+        <img src="../icons/icon-48.png" alt="ShortsBlock - YouTube Shorts Blocker Extension" width="40" height="40" />
+        <div>
+          <h1>ShortsBlock</h1>
+          <p>Blocking YouTube Shorts before they start.</p>
+        </div>
+      </header>
+
+      <section class="session-card" aria-labelledby="session-heading">
+        <h2 id="session-heading" class="sr-only">Session Statistics</h2>
+        <p id="session-count" role="status" aria-live="polite" aria-atomic="true">No Shorts blocked this session yet.</p>
+      </section>
+
+      <button id="clear-badge" type="button" aria-label="Dismiss notification and clear badge">Dismiss</button>
+
+      <footer class="support-footer" role="contentinfo">
+        <a id="donation-link" href="#" class="support-link" aria-label="Support ShortsBlock development">Support</a>
+      </footer>
+    </main>
+    <script src="popup.js"></script>
+  </body>
+</html>
+
+
+

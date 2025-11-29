@@ -1,4 +1,4 @@
-# ShortsBan
+# ShortsBlock
 
 Block YouTube Shorts automatically. Prevents redirects to youtube.com/shorts and restores your previous page.
 
@@ -14,37 +14,37 @@ Block YouTube Shorts automatically. Prevents redirects to youtube.com/shorts and
 ## 📥 Installation
 
 ### Firefox
-[Install from Firefox Add-ons](https://addons.mozilla.org/firefox/addon/shortsban/) *(Coming soon)*
+[Install from Firefox Add-ons](https://addons.mozilla.org/firefox/addon/shortsblock/) *(Coming soon)*
 
 ### Chrome
-[Install from Chrome Web Store](https://chrome.google.com/webstore/detail/shortsban/) *(Coming soon)*
+[Install from Chrome Web Store](https://chrome.google.com/webstore/detail/shortsblock/) *(Coming soon)*
 
 ### Microsoft Edge
-[Install from Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/shortsban/) *(Coming soon)*
+[Install from Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/shortsblock/) *(Coming soon)*
 
 ### Safari
-[Install from Safari App Store](https://apps.apple.com/app/shortsban/) *(Coming soon)*
+[Install from Safari App Store](https://apps.apple.com/app/shortsblock/) *(Coming soon)*
 
 ## 🎯 How It Works
 
-When you click a YouTube Shorts link, ShortsBan automatically redirects you back to your previous page, preventing the distraction before it starts.
+When you click a YouTube Shorts link, ShortsBlock automatically redirects you back to your previous page, preventing the distraction before it starts.
 
 ## 🔒 Privacy
 
-ShortsBan doesn't collect, store, or transmit any personal data. All processing happens locally in your browser.
+ShortsBlock doesn't collect, store, or transmit any personal data. All processing happens locally in your browser.
 
-**Read our full [Privacy Policy](https://jcousins01.github.io/ShortsBan/PRIVACY.html)**
+**Read our full [Privacy Policy](https://jcousins01.github.io/ShortsBlock/PRIVACY.html)**
 
 ## 🐛 Support
 
 Found a bug? Have a feature request?
 
-- [Open an issue](https://github.com/Jcousins01/ShortsBan/issues)
+- [Open an issue](https://github.com/Jcousins01/ShortsBlock/issues)
 - Or contact: jackcousins@live.co.uk
 
 ## ☕ Donate
 
-Support the developer and keep ShortsBan free:
+Support the developer and keep ShortsBlock free:
 
 [Donate via Stripe](https://donate.stripe.com/28o2ateSlccqakMfYZ)
 
@@ -55,7 +55,7 @@ This repository contains the source code for all browser versions:
 - `Firefox extention/` - Firefox Add-on (Manifest V2)
 - `Chrome Extention/` - Chrome Extension (Manifest V3)
 - `Safari Extention/` - Safari Extension (Manifest V3)
-- `Bing Extention/` - Microsoft Edge Extension (Manifest V3)
+- `Edge Extension/` - Microsoft Edge Extension (Manifest V3)
 
 ## 📝 License
 
